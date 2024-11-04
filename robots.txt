@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugexeubi.github.io/XkU/sitemap_index.txt
+Sitemap: https://ugexeubi.github.io/cWK/sitemap_index.txt
+Sitemap: https://ugexeubi.github.io/nFO/sitemap_index.txt
+Sitemap: https://ugexeubi.github.io/xOW/sitemap_index.txt
